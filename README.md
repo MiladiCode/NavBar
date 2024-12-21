@@ -1,4 +1,4 @@
-## Watch the full tutorial on YouTub:
+
 <a href="https://www.youtube.com/watch?v=R6VzUQpP2Q4" target="_blank">
   <img src="./images/thumbnail.png" alt="Thumbnail"/>
 </a>
