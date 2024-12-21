@@ -1,6 +1,6 @@
 # Watch the full tutorial on YouTub:
 <a href="https://www.youtube.com/watch?v=R6VzUQpP2Q4" target="_blank">
-  <img src="D:\1Miladi Code Youtube Channel\Responsive Navigation bar\VSCODE\NavBar\images\thumbnail.png" />
+  <img src="./images/thumbnail.png" alt="Thumbnail"/>
 </a>
 
 ##Introduction: 
@@ -11,5 +11,5 @@
 
 #Watch the full tutorial on YouTub
 <a href="https://www.youtube.com/watch?v=R6VzUQpP2Q4">
-  <img src="D:\1Miladi Code Youtube Channel\Responsive Navigation bar\VSCODE\NavBar\images\youtube-ligo.png" />
+  <img src="./images/youtube-ligo.png" alt="youtube"/>
 </a>
